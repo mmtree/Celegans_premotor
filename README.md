@@ -6,7 +6,7 @@ Kernel: Julia 1.11.2
 
 ### get_Atanas_data.ipynb
 >
-> - downloads whole-brain imaging data [Atanas & Kim et al. (2023)](https://wormwideweb.org/activity/dataset/)
+> - downloads whole-brain imaging data from [Atanas & Kim et al. (2023)](https://wormwideweb.org/activity/dataset/)
 > - saves data to folder data/Atanas_data
 
 ---
@@ -66,6 +66,7 @@ Kernel: Julia 1.11.2
 ### computer_avg_weights.ipynb
 > Computes average synaptic weights using regression
 > Saves average weights in folder data/model_weights
+
 
 
 
