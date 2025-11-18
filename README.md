@@ -65,7 +65,9 @@ Kernel: Julia 1.11.2
 
 ### computer_avg_weights.ipynb
 > Computes average synaptic weights using regression
+> 
 > Saves average weights in folder data/model_weights
+
 
 
 
