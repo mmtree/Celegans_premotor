@@ -30,6 +30,7 @@ Kernel: Julia 1.11.2
 
 
 ### Synaptic_weights_figures.ipynb
+>
 > Model dynamics and parameters
 >  - Figure 2
 
@@ -41,24 +42,31 @@ Kernel: Julia 1.11.2
 > Promoter and supporessor signal neurons
 >- Figure 5
 
+---
 
-#### ablate_core_neurons.ipynb
+
+### ablate_core_neurons.ipynb
+>
+> Ablation of core neurons
 > - Figure 6
 
 
-#### compare_to_Leifer.ipynb
-> - Figure 7
+### compare_to_Leifer.ipynb
+>
+> Signal propagation maps
+>- Figure 7
 
 ---
 
 
-#### White_graph_process.ipynb
+### White_graph_process.ipynb
 > Makes processed graph data from original connectome data from [White et al. (1986)](https://www.wormatlas.org/images/NeuronConnect.xls).
 
 
-#### computer_avg_weights.ipynb
+### computer_avg_weights.ipynb
 > Computes average synaptic weights using regression
 > Saves average weights in folder data/model_weights
+
 
 
 
