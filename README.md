@@ -33,7 +33,7 @@ Julia code for "A data-driven biology-based network model reproduces C. elegans 
 
 
 > ### White_graph_process.ipynb
-> Makes processed graph data from original connectome file
+> Makes processed graph data from original connectome data from [White et al. (1986)](https://www.wormatlas.org/images/NeuronConnect.xls).
 
 
 > ### computer_avg_weights.ipynb
@@ -45,5 +45,6 @@ Average model weights : data/model_weights/avg_model_weights.jld2.
 
 
 Whole brain imaging data : Atanas_data/???.json.
+
 
 
