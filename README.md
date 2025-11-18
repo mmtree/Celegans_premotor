@@ -25,7 +25,7 @@ Kernel: Julia 1.11.2
 >
 > Behavior over long duractions: roaming vs dwelling
 > - Figure 9
----
+
 
 
 
@@ -34,7 +34,6 @@ Kernel: Julia 1.11.2
 > Model dynamics and parameters
 >  - Figure 2
 
----
 
 
 ### determine_cause_of_switches-8.ipynb
@@ -42,7 +41,7 @@ Kernel: Julia 1.11.2
 > Promoter and supporessor signal neurons
 >- Figure 5
 
----
+
 
 
 ### ablate_core_neurons.ipynb
@@ -67,6 +66,7 @@ Kernel: Julia 1.11.2
 > Computes average synaptic weights using regression
 > 
 > Saves average weights in folder data/model_weights
+
 
 
 
