@@ -24,10 +24,26 @@ Julia code for "A data-driven biology-based network model reproduces C. elegans 
 > - Figure 5
 
 
+> ### ablate_core_neurons.ipynb
+> - Figure 6
+
+
+> ### compare_to_Leifer.ipynb
+> - Figure 7
+
+
+> ### White_graph_process.ipynb
+> Makes processed graph data from original connectome file
+
+
+> ### computer_avg_weights.ipynb
+> Computes average synaptic weights using regression
+
 Processed White et al. (1986) connectome data : data/White_data_processed/df5.csv.
 
 Average model weights : data/model_weights/avg_model_weights.jld2.
 
 
 Whole brain imaging data : Atanas_data/???.json.
+
 
